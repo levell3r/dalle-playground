@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": false,
   "scripts": {
-    "start": "export HTTPS=true&&SSL_CRT_FILE=/etc/letsencrypt/live/dancan.page/fullchain.pem&&SSL_KEY_FILE=/etc/letsencrypt/live/dancan.page/privkey.pem react-scripts start",
+    "start": "export HTTPS=true react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
