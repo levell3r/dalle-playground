@@ -110,7 +110,7 @@ const App = ({ classes }) => {
         <div className={classes.root}>
             <div className={classes.title}>
                 <Typography variant="h2">
-                    Hacked up <br></br>DALL-E Playground 
+                    Hacked up DALL-E Playground 
                 </Typography>
             </div>
             <div className={classes.title}>
