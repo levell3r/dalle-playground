@@ -115,7 +115,7 @@ const App = ({ classes }) => {
             </div>
             <div className={classes.title}>
                 <Typography variant="h4">
-                    Please use https://petite-rules-tease-35-193-111-215.loca.lt/ as the URL below 
+                    Please use https://ripe-mangos-carry-34-135-91-229.loca.lt/ as the URL below 
                 </Typography>
             </div>
 
