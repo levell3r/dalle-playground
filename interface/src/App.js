@@ -109,8 +109,13 @@ const App = ({ classes }) => {
     return (
         <div className={classes.root}>
             <div className={classes.title}>
-                <Typography variant="h3">
-                    DALL-E Playground <span role="img" aria-label="sparks-emoji">✨</span>
+                <Typography variant="h2">
+                    Hacked up <br></br>DALL-E Playground 
+                </Typography>
+            </div>
+            <div className={classes.title}>
+                <Typography variant="h4">
+                    Please use https://petite-rules-tease-35-193-111-215.loca.lt/ as the URL below 
                 </Typography>
             </div>
 
